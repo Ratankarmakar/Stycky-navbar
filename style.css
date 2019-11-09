@@ -1,0 +1,18 @@
+section{
+	min-height:100vh;
+}
+
+.about{
+	background-color: green;
+}
+.profile{
+	background-color: gray;
+}
+.navbar{
+	transition-duration: 0.5s;
+	padding: 20px 0;
+}
+.navbar.bg-custom{
+	background-color: red;
+	padding: 20px 0;
+}
